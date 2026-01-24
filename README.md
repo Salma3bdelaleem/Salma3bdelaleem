@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-🤖 Data Science & Artificial Intelligence Enthusiast
+  <img src="https://c.tenor.com/your-gif-link.gif" alt="Data Science & AI Enthusiast" />
 </h3>
 
 <!-- Profile Views -->
