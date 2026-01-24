@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=FFFFFF&width=500&lines=Data+Science+%26+Artificial+Intelligence+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=FFFFFF&width=400&lines=Data+Science+Engineer" alt="Typing Animation" />
 </h3>
 
 <!-- Profile Views -->
