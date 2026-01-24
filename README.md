@@ -7,6 +7,11 @@
 🤖 Data Science & Artificial Intelligence Enthusiast
 </h3>
 
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Salma3bdelaleem&color=blue&label=Profile+Views" alt="Profile Views" />
+</p>
+
 ---
 
 ## 👩‍🎓 About Me  
@@ -15,6 +20,13 @@ Hi! I'm **Salma Abdelaleem**, an **undergraduate student** at the
 🎓 **Faculty of Artificial Intelligence**, **Delta University for Science and Technology**.
 
 I specialize in **Data Science** and **Artificial Intelligence**, with a strong interest in building intelligent systems and exploring cutting-edge AI technologies 🚀
+
+---
+
+## 📄 My CV  
+
+You can view or download my CV here:  
+[![Download CV](https://img.shields.io/badge/Download%20CV-0077B5?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18S2oKSm84LM_XxEsSS5w2qnbyJ_qD2-0/view?usp=sharing)
 
 ---
 
