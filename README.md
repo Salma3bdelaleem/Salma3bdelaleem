@@ -23,10 +23,10 @@ I specialize in **Data Science** and **Artificial Intelligence**, with a strong 
 
 ---
 
-## 📄 My CV  
+## 📄 My CV
 
 You can view or download my CV here:  
-[![Download CV](https://img.shields.io/badge/Download%20CV-0077B5?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/18S2oKSm84LM_XxEsSS5w2qnbyJ_qD2-0/view?usp=sharing)
+[![Download CV](https://img.shields.io/badge/Download%20CV-0077B5?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1EZLndx3yM9a16yZNX2iYx4Gg_5dtIAAP/view?usp=sharing)
 
 ---
 
